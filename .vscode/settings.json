@@ -1,5 +1,6 @@
 {
-    "python.linting.pylintEnabled": false,
+    "python.linting.pylintEnabled": true,
     "python.linting.enabled": true,
-    "python.linting.pylamaEnabled": true
+    "python.linting.pylamaEnabled": false,
+    "python.pythonPath": "C:\\Users\\aadne\\envs\\TDT4140\\Scripts\\python.exe"
 }
